@@ -31,4 +31,4 @@ In questa parte viene presentata una breve introduzione delle varie tipologie di
 La quinta parte riguarda la regolamentazione dell’IA in finanza e delle conseguenze derivanti dalla concorrenza basata sull’intelligenza artificiale nel settore finanziario. Discute anche della possibilità di una singolarit`a finanziaria, nel momento in cui gli agenti di intelligenza artificiale dominerebbero tutti gli aspetti della finanza così come la conosciamo. 
 
 
-Dopo aver trattato queste cinque fasi di approfondimento, verà esposta nella conclusione finale un resoconto dell’intero elaborato sull’IA nel settore della finanza.
+Dopo aver trattato queste cinque fasi di approfondimento, verrà esposta nella conclusione finale un resoconto dell’intero elaborato sull’IA nel settore della finanza.
